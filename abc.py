@@ -2,11 +2,7 @@ import random
 import sys
 import copy
 import numpy as np
-
-
-import random
-import sys
-import copy
+import cv2
 
 
 class Bee(object):
